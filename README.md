@@ -29,6 +29,7 @@ The icons are borrowed from the following projects:
 * [CSS3](http://www.w3.org/Style/CSS/)
 * [JSON](http://json.org/)
 * [Backbone.js](http://backbonejs.org/)
+* [Bootstrap](http://getbootstrap.com/)
 * [Marionette](http://marionettejs.com/)
 * [Code Climate](https://codeclimate.com/)
 * [Coveralls](https://coveralls.io/)
