@@ -1,0 +1,34 @@
+{
+  "name": "vendor-icons",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/vendor-icons",
+  "description": "FamFamFam Flags icon pack",
+  "keywords": [
+    "icon",
+    "flag",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "authors": [
+    "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
+  ],
+  "main": [
+    "./img"
+  ],
+  "ignore": [
+    "bower_components",
+    ".bowerrc",
+    "node_modules",
+    "package.json",
+    ".git",
+    ".gitignore",
+    ".gitattributes",
+    ".npmignore",
+    ".editorconfig",
+    "README.md"
+  ],
+  "dependencies": {}
+}

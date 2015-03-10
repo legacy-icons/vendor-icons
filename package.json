@@ -1,0 +1,42 @@
+{
+  "name": "vendor-icons",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/vendor-icons",
+  "description": "FamFamFam Flags icon pack",
+  "keywords": [
+    "icon",
+    "flag",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/T1st3/vendor-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T1st3/vendor-icons/issues"
+  },
+  "files": [
+    "./img"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "~0.5",
+    "cowsay": "~1.0",
+    "del": "~1.1",
+    "figlet": "~1.1",
+    "gulp": "~3.8",
+    "gulp-gm": "~0.0",
+    "gulp-imagemin": "~2.2",
+    "gulp-notify": "~2.0",
+    "qrcode-terminal": "~0.9",
+    "somebody": "~1.0"
+  }
+}
