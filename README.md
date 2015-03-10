@@ -36,6 +36,7 @@ The icons are borrowed from the following projects:
 * [Github](https://github.com/)
 * [Travis-CI](https://travis-ci.org/)
 * [David-DM](https://david-dm.org/)
+* [SourceGraph](https://sourcegraph.com/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 * [Bower](http://bower.io/)
@@ -49,6 +50,7 @@ The icons are borrowed from the following projects:
 * [Safari](https://www.apple.com/safari/)
 * [Cordova](http://cordova.apache.org/)
 * [PhantomJS](http://phantomjs.org/)
+* [Stack Overflow](http://stackoverflow.com/)
 
 
 
