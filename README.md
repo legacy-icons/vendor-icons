@@ -48,6 +48,7 @@ The icons are borrowed from the following projects:
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Safari](https://www.apple.com/safari/)
 * [Cordova](http://cordova.apache.org/)
+* [PhantomJS](http://phantomjs.org/)
 
 
 
@@ -55,8 +56,9 @@ The icons are borrowed from the following projects:
 License
 ---------
 
-Each icon in this project belong to its original author, and for most of them, they are copyrighted.
-Please note that the project "vendor-icons" does not consider these icons as free-to-use: if you want to use these icons in your project, you may|shall|should|must ask to the rightful owners that your use of the icon is OK.
+Each icon in this project belong to its original author, and for most of them, they are copyrighted. NBote that some of these icons may not match their project's official icon/logo.
+
+Please note that the project "vendor-icons" does not consider these icons as free-to-use: if you want to use these icons in your project, you may|shall|should|must check with the rightful owners that your use of the icon is OK.
 
 
 
