@@ -47,6 +47,7 @@ The icons are borrowed from the following projects:
 * [Opera](http://www.opera.com)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Safari](https://www.apple.com/safari/)
+* [Cordova](http://cordova.apache.org/)
 
 
 
