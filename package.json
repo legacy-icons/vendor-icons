@@ -2,7 +2,7 @@
   "name": "vendor-icons",
   "version": "0.2.2",
   "homepage": "https://github.com/T1st3/vendor-icons",
-  "description": "FamFamFam Flags icon pack",
+  "description": "Vendor icons",
   "keywords": [
     "icon",
     "vendor",
@@ -17,9 +17,6 @@
   "bugs": {
     "url": "https://github.com/T1st3/vendor-icons/issues"
   },
-  "files": [
-    "./img"
-  ],
   "engines": {
     "node": ">= 0.10.0"
   },
