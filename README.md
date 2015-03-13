@@ -2,6 +2,11 @@ vendor-icons
 ============
 
 
+[![NPM version](https://img.shields.io/npm/v/vendor-icons.svg)](https://www.npmjs.org/package/vendor-icons)
+[![Bower version](https://img.shields.io/bower/v/vendor-icons.svg)](http://bower.io/search/?q=vendor-icons)
+[![Packagist version](https://img.shields.io/packagist/v/t1st3/vendor-icons.svg)](https://packagist.org/packages/t1st3/vendor-icons)
+
+
 About
 --------
 
