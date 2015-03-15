@@ -59,6 +59,7 @@ The icons are borrowed from the following projects:
 * [Node.js](https://nodejs.org/)
 * [Atom Editor](https://atom.io/)
 * [Jekyll](http://jekyllrb.com/)
+* [Chai](http://chaijs.com/)
 
 
 
