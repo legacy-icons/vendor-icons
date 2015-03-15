@@ -57,6 +57,7 @@ The icons are borrowed from the following projects:
 * [PhantomJS](http://phantomjs.org/)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Node.js](https://nodejs.org/)
+* [Atom Editor](https://atom.io/)
 
 
 
