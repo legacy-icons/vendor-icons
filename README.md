@@ -56,6 +56,7 @@ The icons are borrowed from the following projects:
 * [Cordova](http://cordova.apache.org/)
 * [PhantomJS](http://phantomjs.org/)
 * [Stack Overflow](http://stackoverflow.com/)
+* [Node.js](https://nodejs.org/)
 
 
 
