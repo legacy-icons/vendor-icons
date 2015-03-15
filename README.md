@@ -60,6 +60,7 @@ The icons are borrowed from the following projects:
 * [Atom Editor](https://atom.io/)
 * [Jekyll](http://jekyllrb.com/)
 * [Chai](http://chaijs.com/)
+* [VersionEye](https://www.versioneye.com/)
 
 
 
