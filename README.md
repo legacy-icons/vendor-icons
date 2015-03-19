@@ -82,3 +82,11 @@ All the content of this repository (excepted the icon pack)
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
+
+
+
+Dev dependencies (NPM)
+----------
+
+
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/vendor-icons.svg)](https://david-dm.org/t1st3/vendor-icons)
