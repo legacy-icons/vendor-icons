@@ -85,8 +85,11 @@ Though, it is just composed a few trivial json files and a Readme.
 
 
 
-Dev dependencies (NPM)
+Dev dependencies and build status
 ----------
 
-
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/vendor-icons.svg)](https://david-dm.org/t1st3/vendor-icons)
+[![Build Status](https://img.shields.io/travis/T1st3/vendor-icons.svg)](https://travis-ci.org/T1st3/vendor-icons)
+
+
+
