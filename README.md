@@ -50,6 +50,7 @@ The icons are borrowed from the following projects:
 * [JSON](http://json.org/)
 * [Lo-Dash](http://lodash.com/)
 * [Marionette](http://marionettejs.com/)
+* [Mocha](http://mochajs.org/)
 * [Modernizr](http://modernizr.com/)
 * [Node.js](https://nodejs.org/)
 * [NPM](https://www.npmjs.com/)
