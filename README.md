@@ -42,6 +42,7 @@ The icons are borrowed from the following projects:
 * [Github](https://github.com/)
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
+* [H5BP](https://html5boilerplate.com/)
 * [HTML5](http://www.w3.org/TR/html5/)
 * [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [Jekyll](http://jekyllrb.com/)
