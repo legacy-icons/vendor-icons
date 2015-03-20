@@ -62,6 +62,7 @@ The icons are borrowed from the following projects:
 * [Chai](http://chaijs.com/)
 * [VersionEye](https://www.versioneye.com/)
 * [Composer](https://getcomposer.org/)
+* [PHP](http://php.net/)
 
 
 
