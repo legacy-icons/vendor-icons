@@ -61,7 +61,7 @@ The icons are borrowed from the following projects:
 * [Jekyll](http://jekyllrb.com/)
 * [Chai](http://chaijs.com/)
 * [VersionEye](https://www.versioneye.com/)
-
+* [Composer](https://getcomposer.org/)
 
 
 
