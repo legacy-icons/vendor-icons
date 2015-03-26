@@ -50,6 +50,7 @@ The icons are borrowed from the following projects:
 * [![JSON](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/json.png) JSON](http://json.org/)
 * [![Lo-Dash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/lodash.png) Lo-Dash](http://lodash.com/)
 * [![Marionette](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/marionette.png) Marionette](http://marionettejs.com/)
+* [![Markdown](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/markdown.png) Markdown](http://daringfireball.net/projects/markdown/)
 * [![Mocha](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/mocha.png) Mocha](http://mochajs.org/)
 * [![Modernizr](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/modernizr.png) Modernizr](http://modernizr.com/)
 * [![Node.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nodejs.png) Node.js](https://nodejs.org/)
