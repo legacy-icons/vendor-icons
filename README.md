@@ -49,6 +49,7 @@ The icons are borrowed from the following projects:
 * [![HTML5](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/html5.png) HTML5](http://www.w3.org/TR/html5/)
 * [![Humans.txt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/humans-txt.png) Humans.txt](http://humanstxt.org/)
 * [![Internet Explorer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ie.png) Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [![Inch-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/inch-ci.png) Inch-CI](https://inch-ci.org/)
 * [![Jekyll](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jekyll.png) Jekyll](http://jekyllrb.com/)
 * [![jQuery](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jquery.png) jQuery](http://jquery.com/)
 * [![JSBin](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jsbin.png) JSBin](http://jsbin.com)
