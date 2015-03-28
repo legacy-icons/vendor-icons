@@ -51,6 +51,7 @@ The icons are borrowed from the following projects:
 * [![Internet Explorer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ie.png) Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
 * [![Jekyll](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jekyll.png) Jekyll](http://jekyllrb.com/)
 * [![jQuery](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jquery.png) jQuery](http://jquery.com/)
+* [![JSBin](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/jsbin.png) JSBin](http://jsbin.com)
 * [![JSON](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/json.png) JSON](http://json.org/)
 * [![Lo-Dash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/lodash.png) Lo-Dash](http://lodash.com/)
 * [![Marionette](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/marionette.png) Marionette](http://marionettejs.com/)
