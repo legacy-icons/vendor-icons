@@ -28,6 +28,7 @@ The icons are borrowed from the following projects:
 
 * [![Atom Editor](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/atom.png) Atom Editor](https://atom.io/)
 * [![Backbone.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/backbone.png) Backbone.js](http://backbonejs.org/)
+* [![BitBucket](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bitbucket.png) BitBucket](https://bitbucket.org/)
 * [![BlackBerry](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/blackberry.png) BlackBerry](http://global.blackberry.com/)
 * [![Bootstrap](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bootstrap.png) Bootstrap](http://getbootstrap.com/)
 * [![Bower](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bower.png) Bower](http://bower.io/)
