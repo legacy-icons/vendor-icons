@@ -73,6 +73,7 @@ The icons are borrowed from the following projects:
 * [![Safari](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/safari.png) Safari](https://www.apple.com/safari/)
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
 * [![Stack Overflow](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/stack-overflow.png) Stack Overflow](http://stackoverflow.com/)
+* [![Tizen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/tizen.png) Tizen](https://www.tizen.org)
 * [![Travis-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/travis-ci.png) Travis-CI](https://travis-ci.org/)
 * [![VersionEye](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/versioneye.png) VersionEye](https://www.versioneye.com/)
 * [![Yeoman](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/yeoman.png) Yeoman](http://yeoman.io/)
