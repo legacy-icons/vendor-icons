@@ -43,6 +43,7 @@ The icons are borrowed from the following projects:
 * [![Coveralls](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/coveralls.png) Coveralls](https://coveralls.io/)
 * [![CSS3](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/css3.png) CSS3](http://www.w3.org/Style/CSS/)
 * [![David-DM](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/david-dm.png) David-DM](https://david-dm.org/)
+* [![Debian](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/debian.png) Debian](https://www.debian.org)
 * [![EditorConfig](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/editorconfig.png) EditorConfig](http://editorconfig.org/)
 * [![Firefox OS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox-os.png) Firefox OS](https://www.mozilla.org/en/firefox/os/)
 * [![Firefox](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox.png) Firefox](https://www.mozilla.org/firefox/)
