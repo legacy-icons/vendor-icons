@@ -69,6 +69,7 @@ The icons are borrowed from the following projects:
 * [![PhantomJS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/phantomjs.png) PhantomJS](http://phantomjs.org/)
 * [![PHP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/php.png) PHP](http://php.net/)
 * [![Require.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/requirejs.png) Require.js](http://requirejs.org/)
+* [![Ruby](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ruby.png) Ruby](http://rubyonrails.org/)
 * [![RubyGems](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/rubygems.png) RubyGems](https://rubygems.org/)
 * [![Safari](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/safari.png) Safari](https://www.apple.com/safari/)
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
