@@ -81,6 +81,7 @@ The icons are borrowed from the following projects:
 * [![Tizen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/tizen.png) Tizen](https://www.tizen.org)
 * [![Travis-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/travis-ci.png) Travis-CI](https://travis-ci.org/)
 * [![VersionEye](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/versioneye.png) VersionEye](https://www.versioneye.com/)
+* [![Windows 8](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/windows8.png) Windows 8](http://windows.microsoft.com/en-us/windows-8)
 * [![Yeoman](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/yeoman.png) Yeoman](http://yeoman.io/)
 
 
