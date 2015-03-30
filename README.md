@@ -52,6 +52,7 @@ The icons are borrowed from the following projects:
 * [![Font-Awesome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/font-awesome.png) Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [![Git](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/git.png) Git](http://git-scm.com/)
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
+* [![Gradle](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gradle.png) Gradle](https://gradle.org/)
 * [![Grunt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/grunt.png) Grunt](http://gruntjs.com/)
 * [![Gulp](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gulp.png) Gulp](http://gulpjs.com/)
 * [![H5BP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/h5bp.png) H5BP](https://html5boilerplate.com/)
