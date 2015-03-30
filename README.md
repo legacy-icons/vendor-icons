@@ -80,6 +80,7 @@ The icons are borrowed from the following projects:
 * [![Packagist](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/packagist.png) Packagist](https://packagist.org/)
 * [![PhantomJS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/phantomjs.png) PhantomJS](http://phantomjs.org/)
 * [![PHP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/php.png) PHP](http://php.net/)
+* [![Polymer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/polymer.png) Polymer](https://www.polymer-project.org/)
 * [![Python](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/python.png) Python](https://www.python.org/)
 * [![React](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/react.png) React](https://facebook.github.io/react/)
 * [![Require.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/requirejs.png) Require.js](http://requirejs.org/)
