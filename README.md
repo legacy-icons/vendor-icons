@@ -10,7 +10,7 @@ vendor-icons
 About
 --------
 
-Vendor icons (from HTML5/CSS3 and JavaScript universes)
+Icons and logos from various vendors of the coding community.
 
 
 This project just provides icons from various projects. All icons are made available through the following dimensions (in pixels):
