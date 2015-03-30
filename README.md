@@ -48,6 +48,7 @@ The icons are borrowed from the following projects:
 * [![Fedora](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/fedora.png) Fedora](https://getfedora.org/)
 * [![Firefox OS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox-os.png) Firefox OS](https://www.mozilla.org/en/firefox/os/)
 * [![Firefox](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox.png) Firefox](https://www.mozilla.org/firefox/)
+* [![Flash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/flash.png) Flash](https://get.adobe.com/flashplayer/)
 * [![Font-Awesome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/font-awesome.png) Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
 * [![Grunt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/grunt.png) Grunt](http://gruntjs.com/)
