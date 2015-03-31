@@ -16,7 +16,10 @@ qrcode = require('qrcode-terminal'),
 
 gulp = require('gulp'),
 gm = require('gulp-gm'),
+rename = require('gulp-rename'),
 imagemin = require('gulp-imagemin'),
+minifyCSS = require('gulp-minify-css'),
+spriteBuilder = require( 'node-spritesheet' ).Builder,
 notify = require('gulp-notify');
 
 function displayCowsay (txt, cb) {
@@ -60,6 +63,7 @@ gulp.task('figlet', [], function (cb) {
     });
   }
 });
+
 /*
  * BUILD TASKS
  */
@@ -104,9 +108,78 @@ gulp.task('build_img', ['build_clean'], function (cb) {
       return gmfile.resize(256, 256);
     }))
     .pipe(gulp.dest('./dist/256x256'));
+  //cb();
 });
 
 gulp.task('build', ['build_img'], function (cb) {
+  triggerNotification ('Builder', 'Successfully built application', function () {
+    displayCowsay('gulp build - DONE', cb);
+  });
+});
+
+/*
+ * SPRITE TASKS
+ */
+
+gulp.task('sprite16', ['figlet'], function (cb) {
+  var builder = null,
+  images = [];
+  fs.readdir('./dist/16x16', function (err, files) {
+    if (err) {
+      throw err;
+    }
+    files.forEach(function (file) {
+      if (path.extname(file) === '.png') {
+        images.push('./dist/16x16/' + file);
+      }
+    });
+    builder = new spriteBuilder({
+      outputDirectory: './dist/sprite-16x16',
+      outputImage: pkg.name + '.png',
+      outputCss: pkg.name + '.css',
+      selector: '.' + pkg.name,
+      images: images
+    });
+    builder.build(function() {
+      gulp.src('./dist/sprite-16x16/' + pkg.name + '.css')
+        .pipe(minifyCSS({keepSpecialComments: '*'}))
+        .pipe(rename(pkg.name + '.min.css'))
+        .pipe(gulp.dest('./dist/sprite-16x16'));
+      cb();
+    });
+  });
+});
+
+gulp.task('sprite32', ['figlet'], function (cb) {
+  var builder = null,
+  images = [];
+  fs.readdir('./dist/32x32', function (err, files) {
+    if (err) {
+      throw err;
+    }
+    files.forEach(function (file) {
+      if (path.extname(file) === '.png') {
+        images.push('./dist/32x32/' + file);
+      }
+    });
+    builder = new spriteBuilder({
+      outputDirectory: './dist/sprite-32x32',
+      outputImage: pkg.name + '.png',
+      outputCss: pkg.name + '.css',
+      selector: '.' + pkg.name,
+      images: images
+    });
+    builder.build(function() {
+      gulp.src('./dist/sprite-32x32/' + pkg.name + '.css')
+        .pipe(minifyCSS({keepSpecialComments: '*'}))
+        .pipe(rename(pkg.name + '.min.css'))
+        .pipe(gulp.dest('./dist/sprite-32x32'));
+      cb();
+    });
+  });
+});
+
+gulp.task('sprite', ['sprite16', 'sprite32'], function (cb) {
   triggerNotification ('Builder', 'Successfully built application', function () {
     displayCowsay('gulp build - DONE', cb);
   });

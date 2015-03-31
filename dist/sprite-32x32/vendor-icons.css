@@ -1,0 +1,431 @@
+.vendor-icons {
+  background: url( 'vendor-icons.png' ) no-repeat;
+  background-size: 288px 256px;
+}
+
+.vendor-icons.inch-ci {
+  width: 32px;
+  height: 32px;
+  background-position: 0px 0px;
+}
+
+.vendor-icons.android {
+  width: 32px;
+  height: 32px;
+  background-position: -32px 0px;
+}
+
+.vendor-icons.atom {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -32px;
+}
+
+.vendor-icons.backbone {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -32px;
+}
+
+.vendor-icons.bitbucket {
+  width: 32px;
+  height: 32px;
+  background-position: -64px 0px;
+}
+
+.vendor-icons.blackberry {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -32px;
+}
+
+.vendor-icons.bootstrap {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -64px;
+}
+
+.vendor-icons.bower {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -64px;
+}
+
+.vendor-icons.c {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -64px;
+}
+
+.vendor-icons.chai {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0px;
+}
+
+.vendor-icons.chrome {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -32px;
+}
+
+.vendor-icons.code-climate {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -64px;
+}
+
+.vendor-icons.codemirror {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -96px;
+}
+
+.vendor-icons.codepen {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -96px;
+}
+
+.vendor-icons.composer {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -96px;
+}
+
+.vendor-icons.cordova {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+
+.vendor-icons.coveralls {
+  width: 32px;
+  height: 32px;
+  background-position: -128px 0px;
+}
+
+.vendor-icons.css3 {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -32px;
+}
+
+.vendor-icons.david-dm {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -64px;
+}
+
+.vendor-icons.debian {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -96px;
+}
+
+.vendor-icons.editorconfig {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -128px;
+}
+
+.vendor-icons.fedora {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -128px;
+}
+
+.vendor-icons.firefox-os {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -128px;
+}
+
+.vendor-icons.firefox {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -128px;
+}
+
+.vendor-icons.flash {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -128px;
+}
+
+.vendor-icons.font-awesome {
+  width: 32px;
+  height: 32px;
+  background-position: -160px 0px;
+}
+
+.vendor-icons.git {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -32px;
+}
+
+.vendor-icons.github {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -64px;
+}
+
+.vendor-icons.gradle {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -96px;
+}
+
+.vendor-icons.grunt {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -128px;
+}
+
+.vendor-icons.gulp {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -160px;
+}
+
+.vendor-icons.h5bp {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -160px;
+}
+
+.vendor-icons.html5 {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -160px;
+}
+
+.vendor-icons.humans-txt {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -160px;
+}
+
+.vendor-icons.ie {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -160px;
+}
+
+.vendor-icons.angular {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -160px;
+}
+
+.vendor-icons.ios {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0px;
+}
+
+.vendor-icons.java {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -32px;
+}
+
+.vendor-icons.jekyll {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -64px;
+}
+
+.vendor-icons.jquery {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+
+.vendor-icons.jsbin {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -128px;
+}
+
+.vendor-icons.json {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -160px;
+}
+
+.vendor-icons.lodash {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -192px;
+}
+
+.vendor-icons.lua {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -192px;
+}
+
+.vendor-icons.marionette {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -192px;
+}
+
+.vendor-icons.markdown {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -192px;
+}
+
+.vendor-icons.mdn {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -192px;
+}
+
+.vendor-icons.mocha {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -192px;
+}
+
+.vendor-icons.modernizr {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -192px;
+}
+
+.vendor-icons.nodejs {
+  width: 32px;
+  height: 32px;
+  background-position: -224px 0px;
+}
+
+.vendor-icons.npm {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -32px;
+}
+
+.vendor-icons.opera {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -64px;
+}
+
+.vendor-icons.packagist {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -96px;
+}
+
+.vendor-icons.pear {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -128px;
+}
+
+.vendor-icons.phantomjs {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -160px;
+}
+
+.vendor-icons.php {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -192px;
+}
+
+.vendor-icons.polymer {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -224px;
+}
+
+.vendor-icons.python {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -224px;
+}
+
+.vendor-icons.react {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -224px;
+}
+
+.vendor-icons.requirejs {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -224px;
+}
+
+.vendor-icons.ruby {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -224px;
+}
+
+.vendor-icons.rubygems {
+  width: 32px;
+  height: 32px;
+  background-position: -160px -224px;
+}
+
+.vendor-icons.safari {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -224px;
+}
+
+.vendor-icons.sourcegraph {
+  width: 32px;
+  height: 32px;
+  background-position: -224px -224px;
+}
+
+.vendor-icons.stack-overflow {
+  width: 32px;
+  height: 32px;
+  background-position: -256px 0px;
+}
+
+.vendor-icons.tizen {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -32px;
+}
+
+.vendor-icons.travis-ci {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -64px;
+}
+
+.vendor-icons.ubuntu {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -96px;
+}
+
+.vendor-icons.versioneye {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -128px;
+}
+
+.vendor-icons.windows8 {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -160px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: -256px -192px;
+}
+
