@@ -1,6 +1,6 @@
 .vendor-icons {
   background: url( 'vendor-icons.png' ) no-repeat;
-  background-size: 288px 256px;
+  background-size: 288px 288px;
 }
 
 .vendor-icons.ios {
@@ -423,15 +423,21 @@
   background-position: -256px -160px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: -256px -192px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -256px -224px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: 0px -256px;
 }
 
