@@ -3,7 +3,7 @@
   background-size: 288px 288px;
 }
 
-.vendor-icons.ios {
+.vendor-icons.inch-ci {
   width: 32px;
   height: 32px;
   background-position: 0px 0px;
@@ -69,157 +69,157 @@
   background-position: -96px -32px;
 }
 
-.vendor-icons.code-climate {
+.vendor-icons.chromium {
   width: 32px;
   height: 32px;
   background-position: -96px -64px;
 }
 
-.vendor-icons.codemirror {
+.vendor-icons.code-climate {
   width: 32px;
   height: 32px;
   background-position: 0px -96px;
 }
 
-.vendor-icons.codepen {
+.vendor-icons.codemirror {
   width: 32px;
   height: 32px;
   background-position: -32px -96px;
 }
 
-.vendor-icons.composer {
+.vendor-icons.codepen {
   width: 32px;
   height: 32px;
   background-position: -64px -96px;
 }
 
-.vendor-icons.cordova {
+.vendor-icons.composer {
   width: 32px;
   height: 32px;
   background-position: -96px -96px;
 }
 
-.vendor-icons.coveralls {
+.vendor-icons.cordova {
   width: 32px;
   height: 32px;
   background-position: -128px 0px;
 }
 
-.vendor-icons.css3 {
+.vendor-icons.coveralls {
   width: 32px;
   height: 32px;
   background-position: -128px -32px;
 }
 
-.vendor-icons.david-dm {
+.vendor-icons.css3 {
   width: 32px;
   height: 32px;
   background-position: -128px -64px;
 }
 
-.vendor-icons.debian {
+.vendor-icons.david-dm {
   width: 32px;
   height: 32px;
   background-position: -128px -96px;
 }
 
-.vendor-icons.editorconfig {
+.vendor-icons.debian {
   width: 32px;
   height: 32px;
   background-position: 0px -128px;
 }
 
-.vendor-icons.fedora {
+.vendor-icons.editorconfig {
   width: 32px;
   height: 32px;
   background-position: -32px -128px;
 }
 
-.vendor-icons.firefox-dev {
+.vendor-icons.fedora {
   width: 32px;
   height: 32px;
   background-position: -64px -128px;
 }
 
-.vendor-icons.firefox-os {
+.vendor-icons.firefox-dev {
   width: 32px;
   height: 32px;
   background-position: -96px -128px;
 }
 
-.vendor-icons.firefox {
+.vendor-icons.firefox-os {
   width: 32px;
   height: 32px;
   background-position: -128px -128px;
 }
 
-.vendor-icons.flash {
+.vendor-icons.firefox {
   width: 32px;
   height: 32px;
   background-position: -160px 0px;
 }
 
-.vendor-icons.font-awesome {
+.vendor-icons.flash {
   width: 32px;
   height: 32px;
   background-position: -160px -32px;
 }
 
-.vendor-icons.git {
+.vendor-icons.font-awesome {
   width: 32px;
   height: 32px;
   background-position: -160px -64px;
 }
 
-.vendor-icons.github {
+.vendor-icons.git {
   width: 32px;
   height: 32px;
   background-position: -160px -96px;
 }
 
-.vendor-icons.gradle {
+.vendor-icons.github {
   width: 32px;
   height: 32px;
   background-position: -160px -128px;
 }
 
-.vendor-icons.grunt {
+.vendor-icons.gradle {
   width: 32px;
   height: 32px;
   background-position: 0px -160px;
 }
 
-.vendor-icons.gulp {
+.vendor-icons.grunt {
   width: 32px;
   height: 32px;
   background-position: -32px -160px;
 }
 
-.vendor-icons.h5bp {
+.vendor-icons.gulp {
   width: 32px;
   height: 32px;
   background-position: -64px -160px;
 }
 
-.vendor-icons.html5 {
+.vendor-icons.h5bp {
   width: 32px;
   height: 32px;
   background-position: -96px -160px;
 }
 
-.vendor-icons.humans-txt {
+.vendor-icons.html5 {
   width: 32px;
   height: 32px;
   background-position: -128px -160px;
 }
 
-.vendor-icons.ie {
+.vendor-icons.humans-txt {
   width: 32px;
   height: 32px;
   background-position: -160px -160px;
 }
 
-.vendor-icons.inch-ci {
+.vendor-icons.ie {
   width: 32px;
   height: 32px;
   background-position: -192px 0px;
@@ -231,219 +231,225 @@
   background-position: -192px -32px;
 }
 
-.vendor-icons.java {
+.vendor-icons.ios {
   width: 32px;
   height: 32px;
   background-position: -192px -64px;
 }
 
-.vendor-icons.jekyll {
+.vendor-icons.java {
   width: 32px;
   height: 32px;
   background-position: -192px -96px;
 }
 
-.vendor-icons.jquery {
+.vendor-icons.jekyll {
   width: 32px;
   height: 32px;
   background-position: -192px -128px;
 }
 
-.vendor-icons.jsbin {
+.vendor-icons.jquery {
   width: 32px;
   height: 32px;
   background-position: -192px -160px;
 }
 
-.vendor-icons.json {
+.vendor-icons.jsbin {
   width: 32px;
   height: 32px;
   background-position: 0px -192px;
 }
 
-.vendor-icons.lodash {
+.vendor-icons.json {
   width: 32px;
   height: 32px;
   background-position: -32px -192px;
 }
 
-.vendor-icons.lua {
+.vendor-icons.lodash {
   width: 32px;
   height: 32px;
   background-position: -64px -192px;
 }
 
-.vendor-icons.marionette {
+.vendor-icons.lua {
   width: 32px;
   height: 32px;
   background-position: -96px -192px;
 }
 
-.vendor-icons.markdown {
+.vendor-icons.marionette {
   width: 32px;
   height: 32px;
   background-position: -128px -192px;
 }
 
-.vendor-icons.mdn {
+.vendor-icons.markdown {
   width: 32px;
   height: 32px;
   background-position: -160px -192px;
 }
 
-.vendor-icons.mocha {
+.vendor-icons.mdn {
   width: 32px;
   height: 32px;
   background-position: -192px -192px;
 }
 
-.vendor-icons.modernizr {
+.vendor-icons.mocha {
   width: 32px;
   height: 32px;
   background-position: -224px 0px;
 }
 
-.vendor-icons.nodejs {
+.vendor-icons.modernizr {
   width: 32px;
   height: 32px;
   background-position: -224px -32px;
 }
 
-.vendor-icons.npm {
+.vendor-icons.nodejs {
   width: 32px;
   height: 32px;
   background-position: -224px -64px;
 }
 
-.vendor-icons.opera {
+.vendor-icons.npm {
   width: 32px;
   height: 32px;
   background-position: -224px -96px;
 }
 
-.vendor-icons.packagist {
+.vendor-icons.opera {
   width: 32px;
   height: 32px;
   background-position: -224px -128px;
 }
 
-.vendor-icons.pear {
+.vendor-icons.packagist {
   width: 32px;
   height: 32px;
   background-position: -224px -160px;
 }
 
-.vendor-icons.phantomjs {
+.vendor-icons.pear {
   width: 32px;
   height: 32px;
   background-position: -224px -192px;
 }
 
-.vendor-icons.php {
+.vendor-icons.phantomjs {
   width: 32px;
   height: 32px;
   background-position: 0px -224px;
 }
 
-.vendor-icons.polymer {
+.vendor-icons.php {
   width: 32px;
   height: 32px;
   background-position: -32px -224px;
 }
 
-.vendor-icons.python {
+.vendor-icons.polymer {
   width: 32px;
   height: 32px;
   background-position: -64px -224px;
 }
 
-.vendor-icons.react {
+.vendor-icons.python {
   width: 32px;
   height: 32px;
   background-position: -96px -224px;
 }
 
-.vendor-icons.requirejs {
+.vendor-icons.react {
   width: 32px;
   height: 32px;
   background-position: -128px -224px;
 }
 
-.vendor-icons.ruby {
+.vendor-icons.requirejs {
   width: 32px;
   height: 32px;
   background-position: -160px -224px;
 }
 
-.vendor-icons.rubygems {
+.vendor-icons.ruby {
   width: 32px;
   height: 32px;
   background-position: -192px -224px;
 }
 
-.vendor-icons.safari {
+.vendor-icons.rubygems {
   width: 32px;
   height: 32px;
   background-position: -224px -224px;
 }
 
-.vendor-icons.sourcegraph {
+.vendor-icons.safari {
   width: 32px;
   height: 32px;
   background-position: -256px 0px;
 }
 
-.vendor-icons.stack-overflow {
+.vendor-icons.sourcegraph {
   width: 32px;
   height: 32px;
   background-position: -256px -32px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.stack-overflow {
   width: 32px;
   height: 32px;
   background-position: -256px -64px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 32px;
   height: 32px;
   background-position: -256px -96px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 32px;
   height: 32px;
   background-position: -256px -128px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.ubuntu {
   width: 32px;
   height: 32px;
   background-position: -256px -160px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 32px;
   height: 32px;
   background-position: -256px -192px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.w3c {
   width: 32px;
   height: 32px;
   background-position: -256px -224px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: 0px -256px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -32px -256px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: -64px -256px;
 }
 
