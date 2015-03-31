@@ -80,6 +80,7 @@ The icons are borrowed from the following projects:
 * [![Debian](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/debian.png) Debian](https://www.debian.org/)
 * [![EditorConfig](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/editorconfig.png) EditorConfig](http://editorconfig.org/)
 * [![Fedora](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/fedora.png) Fedora](https://getfedora.org/)
+* [![Firefox Developer Edition](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox-dev.png) Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [![Firefox OS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox-os.png) Firefox OS](https://www.mozilla.org/en/firefox/os/)
 * [![Firefox](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox.png) Firefox](https://www.mozilla.org/firefox/)
 * [![Flash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/flash.png) Flash](https://get.adobe.com/flashplayer/)
