@@ -7,6 +7,11 @@ vendor-icons
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/vendor-icons.svg)](https://packagist.org/packages/t1st3/vendor-icons)
 
 
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/vendor-icons.svg)](https://david-dm.org/t1st3/vendor-icons)
+[![Build Status](https://img.shields.io/travis/T1st3/vendor-icons.svg)](https://travis-ci.org/T1st3/vendor-icons)
+
+
+
 About
 --------
 
@@ -39,6 +44,7 @@ In addition to the icons by themselves, this project also ships a CSS spriteshee
 This is what it actually looks:
 
 ![Spritesheet](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/sprite-32x32/vendor-icons.png)
+![Spritesheet](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/sprite-16x16/vendor-icons.png)
 
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
@@ -145,6 +151,7 @@ Each project and/or company handles graphic assets in different manners, and the
 Please refer the rightful owners in case you don't know whether your use of any icon is legit or not.
 
 
+
 About the rest (all this repository but the icons)
 ----------
 
@@ -154,12 +161,6 @@ is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 Though, it is just composed a few trivial json files and a Readme.
 
 
-
-Dev dependencies and build status
-----------
-
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/vendor-icons.svg)](https://david-dm.org/t1st3/vendor-icons)
-[![Build Status](https://img.shields.io/travis/T1st3/vendor-icons.svg)](https://travis-ci.org/T1st3/vendor-icons)
 
 
 
