@@ -34,6 +34,7 @@ The icons are borrowed from the following projects:
 * [![BlackBerry](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/blackberry.png) BlackBerry](http://global.blackberry.com/)
 * [![Bootstrap](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bootstrap.png) Bootstrap](http://getbootstrap.com/)
 * [![Bower](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bower.png) Bower](http://bower.io/)
+* [![C++](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/c.png) C++](http://en.wikipedia.org/wiki/C%2B%2B)
 * [![Chai](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/chai.png) Chai](http://chaijs.com/)
 * [![Chrome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/chrome.png) Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [![Code Climate](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/code-climate.png) Code Climate](https://codeclimate.com/)
