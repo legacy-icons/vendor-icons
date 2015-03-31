@@ -127,6 +127,7 @@ The icons are borrowed from the following projects:
 * [![Travis-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/travis-ci.png) Travis-CI](https://travis-ci.org/)
 * [![Ubuntu](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ubuntu.png) Ubuntu](http://www.ubuntu.com/)
 * [![VersionEye](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/versioneye.png) VersionEye](https://www.versioneye.com/)
+* [![W3C](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/w3c.png) W3C](http://www.w3.org/)
 * [![Windows 8](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/windows8.png) Windows 8](http://windows.microsoft.com/en-us/windows-8)
 * [![Yeoman](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/yeoman.png) Yeoman](http://yeoman.io/)
 
