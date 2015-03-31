@@ -24,6 +24,32 @@ This project just provides icons from various projects. All icons are made avail
 * 256x256
 
 
+CSS spritesheets
+----------
+
+You can insert the icons directly into your HTML with a common IMG tag:
+
+```
+    <img alt="Github logo" src="dist/32x32/github.png" width="32" height="32">
+```
+
+
+In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+
+This is what it actually looks:
+
+![Spritesheet](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/sprite-32x32/vendor-icons.png)
+
+
+All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
+
+```
+    <div class="vendor-icons github"></div>
+```
+
+Just remember to add the CSS stylesheet to the HEAD of your HTML page!
+
+
 The icons are borrowed from the following projects:
 
 * [![Android](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/android.png) Android](https://www.android.com/)
