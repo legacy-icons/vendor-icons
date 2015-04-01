@@ -104,6 +104,7 @@ The icons are borrowed from the following projects:
 * [![JSON](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/json.png) JSON](http://json.org/)
 * [![Lo-Dash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/lodash.png) Lo-Dash](http://lodash.com/)
 * [![Lua](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/lua.png) Lua](http://www.lua.org/)
+* [![MariaDB](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/mariadb.png) MariaDB](https://mariadb.org/)
 * [![Marionette](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/marionette.png) Marionette](http://marionettejs.com/)
 * [![Markdown](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/markdown.png) Markdown](http://daringfireball.net/projects/markdown/)
 * [![MDN](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/mdn.png) MDN](https://developer.mozilla.org/)
