@@ -3,7 +3,7 @@
   background-size: 144px 144px;
 }
 
-.vendor-icons.java {
+.vendor-icons.jekyll {
   width: 16px;
   height: 16px;
   background-position: 0px 0px;
@@ -237,13 +237,13 @@
   background-position: -96px -32px;
 }
 
-.vendor-icons.angular {
+.vendor-icons.java {
   width: 16px;
   height: 16px;
   background-position: -96px -48px;
 }
 
-.vendor-icons.jekyll {
+.vendor-icons.angular {
   width: 16px;
   height: 16px;
   background-position: -96px -64px;
@@ -417,63 +417,69 @@
   background-position: -128px -64px;
 }
 
-.vendor-icons.stack-overflow {
+.vendor-icons.sqlite {
   width: 16px;
   height: 16px;
   background-position: -128px -80px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.stack-overflow {
   width: 16px;
   height: 16px;
   background-position: -128px -96px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 16px;
   height: 16px;
   background-position: -128px -112px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 16px;
   height: 16px;
   background-position: 0px -128px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.ubuntu {
   width: 16px;
   height: 16px;
   background-position: -16px -128px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 16px;
   height: 16px;
   background-position: -32px -128px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.w3c {
   width: 16px;
   height: 16px;
   background-position: -48px -128px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 16px;
   height: 16px;
   background-position: -64px -128px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 16px;
   height: 16px;
   background-position: -80px -128px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 16px;
   height: 16px;
   background-position: -96px -128px;
+}
+
+.vendor-icons.yeoman {
+  width: 16px;
+  height: 16px;
+  background-position: -112px -128px;
 }
 
