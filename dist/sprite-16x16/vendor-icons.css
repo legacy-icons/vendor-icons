@@ -399,99 +399,105 @@
   background-position: -128px -16px;
 }
 
-.vendor-icons.requirejs {
+.vendor-icons.redis {
   width: 16px;
   height: 16px;
   background-position: -128px -32px;
 }
 
-.vendor-icons.ruby {
+.vendor-icons.requirejs {
   width: 16px;
   height: 16px;
   background-position: -128px -48px;
 }
 
-.vendor-icons.rubygems {
+.vendor-icons.ruby {
   width: 16px;
   height: 16px;
   background-position: -128px -64px;
 }
 
-.vendor-icons.safari {
+.vendor-icons.rubygems {
   width: 16px;
   height: 16px;
   background-position: -128px -80px;
 }
 
-.vendor-icons.sourcegraph {
+.vendor-icons.safari {
   width: 16px;
   height: 16px;
   background-position: -128px -96px;
 }
 
-.vendor-icons.sqlite {
+.vendor-icons.sourcegraph {
   width: 16px;
   height: 16px;
   background-position: -128px -112px;
 }
 
-.vendor-icons.stack-overflow {
+.vendor-icons.sqlite {
   width: 16px;
   height: 16px;
   background-position: 0px -128px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.stack-overflow {
   width: 16px;
   height: 16px;
   background-position: -16px -128px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 16px;
   height: 16px;
   background-position: -32px -128px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 16px;
   height: 16px;
   background-position: -48px -128px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.ubuntu {
   width: 16px;
   height: 16px;
   background-position: -64px -128px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 16px;
   height: 16px;
   background-position: -80px -128px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.w3c {
   width: 16px;
   height: 16px;
   background-position: -96px -128px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 16px;
   height: 16px;
   background-position: -112px -128px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 16px;
   height: 16px;
   background-position: -128px -128px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 16px;
   height: 16px;
   background-position: -144px 0px;
+}
+
+.vendor-icons.yeoman {
+  width: 16px;
+  height: 16px;
+  background-position: -144px -16px;
 }
 

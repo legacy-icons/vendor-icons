@@ -124,6 +124,7 @@ The icons are borrowed from the following projects:
 * [![PostgreSQL](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/postgresql.png) PostgreSQL](http://www.postgresql.org/)
 * [![Python](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/python.png) Python](https://www.python.org/)
 * [![React](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/react.png) React](https://facebook.github.io/react/)
+* [![Redis](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/redis.png) Redis](http://redis.io/)
 * [![Require.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/requirejs.png) Require.js](http://requirejs.org/)
 * [![Ruby](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ruby.png) Ruby](http://rubyonrails.org/)
 * [![RubyGems](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/rubygems.png) RubyGems](https://rubygems.org/)
