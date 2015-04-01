@@ -121,6 +121,7 @@ The icons are borrowed from the following projects:
 * [![Opera](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/opera.png) Opera](http://www.opera.com)
 * [![Packagist](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/packagist.png) Packagist](https://packagist.org/)
 * [![PEAR](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/pear.png) PEAR](http://pear.php.net/)
+* [![Perl](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/perl.png) Perl](https://www.perl.org/)
 * [![PhantomJS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/phantomjs.png) PhantomJS](http://phantomjs.org/)
 * [![PHP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/php.png) PHP](http://php.net/)
 * [![Polymer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/polymer.png) Polymer](https://www.polymer-project.org/)
