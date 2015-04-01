@@ -124,6 +124,7 @@ The icons are borrowed from the following projects:
 * [![Polymer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/polymer.png) Polymer](https://www.polymer-project.org/)
 * [![PostgreSQL](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/postgresql.png) PostgreSQL](http://www.postgresql.org/)
 * [![Python](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/python.png) Python](https://www.python.org/)
+* [![Qt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/qt.png) Qt](http://www.qt.io/)
 * [![React](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/react.png) React](https://facebook.github.io/react/)
 * [![Redis](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/redis.png) Redis](http://redis.io/)
 * [![Require.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/requirejs.png) Require.js](http://requirejs.org/)
