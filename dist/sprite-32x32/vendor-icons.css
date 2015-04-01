@@ -357,105 +357,111 @@
   background-position: -64px -224px;
 }
 
-.vendor-icons.python {
+.vendor-icons.postgresql {
   width: 32px;
   height: 32px;
   background-position: -96px -224px;
 }
 
-.vendor-icons.react {
+.vendor-icons.python {
   width: 32px;
   height: 32px;
   background-position: -128px -224px;
 }
 
-.vendor-icons.requirejs {
+.vendor-icons.react {
   width: 32px;
   height: 32px;
   background-position: -160px -224px;
 }
 
-.vendor-icons.ruby {
+.vendor-icons.requirejs {
   width: 32px;
   height: 32px;
   background-position: -192px -224px;
 }
 
-.vendor-icons.rubygems {
+.vendor-icons.ruby {
   width: 32px;
   height: 32px;
   background-position: -224px -224px;
 }
 
-.vendor-icons.safari {
+.vendor-icons.rubygems {
   width: 32px;
   height: 32px;
   background-position: -256px 0px;
 }
 
-.vendor-icons.sourcegraph {
+.vendor-icons.safari {
   width: 32px;
   height: 32px;
   background-position: -256px -32px;
 }
 
-.vendor-icons.stack-overflow {
+.vendor-icons.sourcegraph {
   width: 32px;
   height: 32px;
   background-position: -256px -64px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.stack-overflow {
   width: 32px;
   height: 32px;
   background-position: -256px -96px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 32px;
   height: 32px;
   background-position: -256px -128px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 32px;
   height: 32px;
   background-position: -256px -160px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.ubuntu {
   width: 32px;
   height: 32px;
   background-position: -256px -192px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 32px;
   height: 32px;
   background-position: -256px -224px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.w3c {
   width: 32px;
   height: 32px;
   background-position: 0px -256px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 32px;
   height: 32px;
   background-position: -32px -256px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: -64px -256px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -96px -256px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: -128px -256px;
 }
 
