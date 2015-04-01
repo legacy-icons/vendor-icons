@@ -3,7 +3,7 @@
   background-size: 320px 288px;
 }
 
-.vendor-icons.jekyll {
+.vendor-icons.jquery {
   width: 32px;
   height: 32px;
   background-position: 0px 0px;
@@ -261,13 +261,13 @@
   background-position: 0px -192px;
 }
 
-.vendor-icons.angular {
+.vendor-icons.jekyll {
   width: 32px;
   height: 32px;
   background-position: -32px -192px;
 }
 
-.vendor-icons.jquery {
+.vendor-icons.angular {
   width: 32px;
   height: 32px;
   background-position: -64px -192px;
@@ -501,27 +501,33 @@
   background-position: -288px -32px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.webgl {
   width: 32px;
   height: 32px;
   background-position: -288px -64px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 32px;
   height: 32px;
   background-position: -288px -96px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: -288px -128px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -288px -160px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -192px;
 }
 
