@@ -91,6 +91,7 @@ The icons are borrowed from the following projects:
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
 * [![Gradle](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gradle.png) Gradle](https://gradle.org/)
 * [![Grunt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/grunt.png) Grunt](http://gruntjs.com/)
+* [![GTK](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gtk.png) GTK](http://www.gtk.org/)
 * [![Gulp](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gulp.png) Gulp](http://gulpjs.com/)
 * [![H5BP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/h5bp.png) H5BP](https://html5boilerplate.com/)
 * [![HBase](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/hbase.png) HBase](http://hbase.apache.org/)
