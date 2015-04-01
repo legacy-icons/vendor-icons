@@ -75,6 +75,7 @@ The icons are borrowed from the following projects:
 * [![Codepen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/codepen.png) Codepen](http://codepen.io/)
 * [![Composer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/composer.png) Composer](https://getcomposer.org/)
 * [![Cordova](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/cordova.png) Cordova](http://cordova.apache.org/)
+* [![CouchDB](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/couchdb.png) CouchDB](http://couchdb.apache.org/)
 * [![Coveralls](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/coveralls.png) Coveralls](https://coveralls.io/)
 * [![CSS3](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/css3.png) CSS3](http://www.w3.org/Style/CSS/)
 * [![David-DM](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/david-dm.png) David-DM](https://david-dm.org/)
