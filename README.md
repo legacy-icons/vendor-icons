@@ -93,6 +93,7 @@ The icons are borrowed from the following projects:
 * [![Grunt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/grunt.png) Grunt](http://gruntjs.com/)
 * [![Gulp](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gulp.png) Gulp](http://gulpjs.com/)
 * [![H5BP](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/h5bp.png) H5BP](https://html5boilerplate.com/)
+* [![HBase](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/hbase.png) HBase](http://hbase.apache.org/)
 * [![HTML5](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/html5.png) HTML5](http://www.w3.org/TR/html5/)
 * [![Humans.txt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/humans-txt.png) Humans.txt](http://humanstxt.org/)
 * [![Internet Explorer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ie.png) Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
