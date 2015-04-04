@@ -140,6 +140,7 @@ The icons are borrowed from the following projects:
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
 * [![Sqlite](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sqlite.png) Sqlite](https://www.sqlite.org/)
 * [![Stack Overflow](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/stack-overflow.png) Stack Overflow](http://stackoverflow.com/)
+* [![Titanium](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/titanium.png) Titanium](http://www.appcelerator.com/product/)
 * [![Tizen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/tizen.png) Tizen](https://www.tizen.org)
 * [![Travis-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/travis-ci.png) Travis-CI](https://travis-ci.org/)
 * [![Unity](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/unity.png) Unity](http://unity3d.com/)
