@@ -3,7 +3,7 @@
   background-size: 320px 320px;
 }
 
-.vendor-icons.jsbin {
+.vendor-icons.json {
   width: 32px;
   height: 32px;
   background-position: 0px 0px;
@@ -273,13 +273,13 @@
   background-position: -64px -192px;
 }
 
-.vendor-icons.angular {
+.vendor-icons.jsbin {
   width: 32px;
   height: 32px;
   background-position: -96px -192px;
 }
 
-.vendor-icons.json {
+.vendor-icons.angular {
   width: 32px;
   height: 32px;
   background-position: -128px -192px;
@@ -501,51 +501,57 @@
   background-position: -288px -32px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.unity {
   width: 32px;
   height: 32px;
   background-position: -288px -64px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 32px;
   height: 32px;
   background-position: -288px -96px;
 }
 
-.vendor-icons.webgl {
+.vendor-icons.w3c {
   width: 32px;
   height: 32px;
   background-position: -288px -128px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.webgl {
   width: 32px;
   height: 32px;
   background-position: -288px -160px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 32px;
   height: 32px;
   background-position: -288px -192px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: -288px -224px;
 }
 
-.vendor-icons.xamarin {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -288px -256px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.xamarin {
   width: 32px;
   height: 32px;
   background-position: 0px -288px;
+}
+
+.vendor-icons.yeoman {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -288px;
 }
 

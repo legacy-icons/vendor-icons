@@ -140,6 +140,7 @@ The icons are borrowed from the following projects:
 * [![Stack Overflow](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/stack-overflow.png) Stack Overflow](http://stackoverflow.com/)
 * [![Tizen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/tizen.png) Tizen](https://www.tizen.org)
 * [![Travis-CI](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/travis-ci.png) Travis-CI](https://travis-ci.org/)
+* [![Unity](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/unity.png) Unity](http://unity3d.com/)
 * [![Ubuntu](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ubuntu.png) Ubuntu](http://www.ubuntu.com/)
 * [![VersionEye](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/versioneye.png) VersionEye](https://www.versioneye.com/)
 * [![W3C](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/w3c.png) W3C](http://www.w3.org/)
