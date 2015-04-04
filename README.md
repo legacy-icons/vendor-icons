@@ -58,6 +58,7 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 The icons are borrowed from the following projects:
 
+* [![Air](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/air.png) Air](https://get.adobe.com/air/)
 * [![Android](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/android.png) Android](https://www.android.com/)
 * [![AngularJS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/angular.png) AngularJS](https://angularjs.org/)
 * [![Atom Editor](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/atom.png) Atom Editor](https://atom.io/)
