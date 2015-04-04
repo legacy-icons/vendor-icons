@@ -146,6 +146,7 @@ The icons are borrowed from the following projects:
 * [![Webkit](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/webkit.png) Webkit](https://www.webkit.org/)
 * [![WHATWG](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/whatwg.png) WHATWG](https://whatwg.org/)
 * [![Windows 8](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/windows8.png) Windows 8](http://windows.microsoft.com/en-us/windows-8)
+* [![Xamarin](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/xamarin.png) Xamarin](http://xamarin.com/)
 * [![Yeoman](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/yeoman.png) Yeoman](http://yeoman.io/)
 
 

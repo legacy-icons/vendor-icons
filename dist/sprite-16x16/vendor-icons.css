@@ -3,7 +3,7 @@
   background-size: 160px 144px;
 }
 
-.vendor-icons.jquery {
+.vendor-icons.jsbin {
   width: 16px;
   height: 16px;
   background-position: 0px 0px;
@@ -267,13 +267,13 @@
   background-position: -16px -96px;
 }
 
-.vendor-icons.angular {
+.vendor-icons.jquery {
   width: 16px;
   height: 16px;
   background-position: -32px -96px;
 }
 
-.vendor-icons.jsbin {
+.vendor-icons.angular {
   width: 16px;
   height: 16px;
   background-position: -48px -96px;
@@ -531,9 +531,15 @@
   background-position: -144px -96px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.xamarin {
   width: 16px;
   height: 16px;
   background-position: -144px -112px;
+}
+
+.vendor-icons.yeoman {
+  width: 16px;
+  height: 16px;
+  background-position: -144px -128px;
 }
 
