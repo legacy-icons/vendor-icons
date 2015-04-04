@@ -115,6 +115,7 @@ The icons are borrowed from the following projects:
 * [![Modernizr](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/modernizr.png) Modernizr](http://modernizr.com/)
 * [![MongoDB](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/mongodb.png) MongoDB](https://www.mongodb.org/)
 * [![MySQL](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/mysql.png) MySQL](http://www.mysql.com/)
+* [![Nginx](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nginx.png) Nginx](http://nginx.org/)
 * [![Node.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nodejs.png) Node.js](https://nodejs.org/)
 * [![NPM](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/npm.png) NPM](https://www.npmjs.com/)
 * [![OpenGL](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/opengl.png) OpenGL](https://www.opengl.org/)
