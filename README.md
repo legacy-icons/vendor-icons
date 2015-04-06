@@ -139,6 +139,7 @@ The icons are borrowed from the following projects:
 * [![Safari](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/safari.png) Safari](https://www.apple.com/safari/)
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
 * [![Sqlite](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sqlite.png) Sqlite](https://www.sqlite.org/)
+* [![Symfony](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/symfony.png) Symfony](http://symfony.com/)
 * [![Stack Overflow](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/stack-overflow.png) Stack Overflow](http://stackoverflow.com/)
 * [![Titanium](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/titanium.png) Titanium](http://www.appcelerator.com/product/)
 * [![Tizen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/tizen.png) Tizen](https://www.tizen.org)
