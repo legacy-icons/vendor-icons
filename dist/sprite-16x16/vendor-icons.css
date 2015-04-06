@@ -579,15 +579,21 @@
   background-position: -80px -144px;
 }
 
-.vendor-icons.xamarin {
+.vendor-icons.wordpress {
   width: 16px;
   height: 16px;
   background-position: -96px -144px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.xamarin {
   width: 16px;
   height: 16px;
   background-position: -112px -144px;
+}
+
+.vendor-icons.yeoman {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -144px;
 }
 
