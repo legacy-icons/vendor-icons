@@ -140,6 +140,7 @@ The icons are borrowed from the following projects:
 * [![Ruby](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/ruby.png) Ruby](http://rubyonrails.org/)
 * [![RubyGems](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/rubygems.png) RubyGems](https://rubygems.org/)
 * [![Safari](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/safari.png) Safari](https://www.apple.com/safari/)
+* [![SourceForge](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourceforge.png) SourceForge](http://sourceforge.net/)
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
 * [![Sqlite](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sqlite.png) Sqlite](https://www.sqlite.org/)
 * [![Symfony](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/symfony.png) Symfony](http://symfony.com/)
