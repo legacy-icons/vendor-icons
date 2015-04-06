@@ -61,6 +61,7 @@ The icons are borrowed from the following projects:
 * [![Air](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/air.png) Air](https://get.adobe.com/air/)
 * [![Android](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/android.png) Android](https://www.android.com/)
 * [![AngularJS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/angular.png) AngularJS](https://angularjs.org/)
+* [![Apache](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/apache.png) Apache](http://httpd.apache.org/)
 * [![Atom Editor](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/atom.png) Atom Editor](https://atom.io/)
 * [![Backbone.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/backbone.png) Backbone.js](http://backbonejs.org/)
 * [![BitBucket](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/bitbucket.png) BitBucket](https://bitbucket.org/)
