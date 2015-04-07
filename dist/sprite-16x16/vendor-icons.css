@@ -3,7 +3,7 @@
   background-size: 176px 160px;
 }
 
-.vendor-icons.json {
+.vendor-icons.lodash {
   width: 16px;
   height: 16px;
   background-position: 0px 0px;
@@ -303,13 +303,13 @@
   background-position: -112px 0px;
 }
 
-.vendor-icons.android {
+.vendor-icons.json {
   width: 16px;
   height: 16px;
   background-position: -112px -16px;
 }
 
-.vendor-icons.lodash {
+.vendor-icons.android {
   width: 16px;
   height: 16px;
   background-position: -112px -32px;
@@ -607,5 +607,11 @@
   width: 16px;
   height: 16px;
   background-position: -160px 0px;
+}
+
+.vendor-icons.zend {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -16px;
 }
 

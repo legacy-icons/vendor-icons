@@ -159,6 +159,7 @@ The icons are borrowed from the following projects:
 * [![WordPress](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/xamarin.png) Xamarin](http://xamarin.com/)
 * [![Xamarin](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/wordpress.png) WordPress](https://wordpress.org/)
 * [![Yeoman](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/yeoman.png) Yeoman](http://yeoman.io/)
+* [![Zend](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/zend.png) Zend](http://framework.zend.com/)
 
 
 
