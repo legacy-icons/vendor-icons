@@ -94,6 +94,7 @@ The icons are borrowed from the following projects:
 * [![Git](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/git.png) Git](http://git-scm.com/)
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
 * [![Gitlab](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gitlab.png) Gitlab](https://about.gitlab.com/)
+* [![GNU](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gnu.png) GNU](https://www.gnu.org/)
 * [![Gradle](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gradle.png) Gradle](https://gradle.org/)
 * [![Grunt](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/grunt.png) Grunt](http://gruntjs.com/)
 * [![GTK](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gtk.png) GTK](http://www.gtk.org/)
