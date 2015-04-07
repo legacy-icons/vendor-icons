@@ -82,6 +82,7 @@ The icons are borrowed from the following projects:
 * [![CSS3](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/css3.png) CSS3](http://www.w3.org/Style/CSS/)
 * [![David-DM](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/david-dm.png) David-DM](https://david-dm.org/)
 * [![Debian](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/debian.png) Debian](https://www.debian.org/)
+* [![Django](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/django.png) Django](https://www.djangoproject.com/)
 * [![Drupal](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/drupal.png) Drupal](https://www.drupal.org/)
 * [![EditorConfig](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/editorconfig.png) EditorConfig](http://editorconfig.org/)
 * [![Fedora](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/fedora.png) Fedora](https://getfedora.org/)
