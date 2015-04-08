@@ -3,7 +3,7 @@
   background-size: 352px 320px;
 }
 
-.vendor-icons.json {
+.vendor-icons.linux {
   width: 32px;
   height: 32px;
   background-position: 0px 0px;
@@ -315,13 +315,13 @@
   background-position: -224px -64px;
 }
 
-.vendor-icons.android {
+.vendor-icons.json {
   width: 32px;
   height: 32px;
   background-position: -224px -96px;
 }
 
-.vendor-icons.linux {
+.vendor-icons.android {
   width: 32px;
   height: 32px;
   background-position: -224px -128px;
@@ -537,99 +537,105 @@
   background-position: -288px -224px;
 }
 
-.vendor-icons.symfony {
+.vendor-icons.svn {
   width: 32px;
   height: 32px;
   background-position: -288px -256px;
 }
 
-.vendor-icons.titanium {
+.vendor-icons.symfony {
   width: 32px;
   height: 32px;
   background-position: 0px -288px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.titanium {
   width: 32px;
   height: 32px;
   background-position: -32px -288px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 32px;
   height: 32px;
   background-position: -64px -288px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 32px;
   height: 32px;
   background-position: -96px -288px;
 }
 
-.vendor-icons.unity {
+.vendor-icons.ubuntu {
   width: 32px;
   height: 32px;
   background-position: -128px -288px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.unity {
   width: 32px;
   height: 32px;
   background-position: -160px -288px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 32px;
   height: 32px;
   background-position: -192px -288px;
 }
 
-.vendor-icons.webgl {
+.vendor-icons.w3c {
   width: 32px;
   height: 32px;
   background-position: -224px -288px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.webgl {
   width: 32px;
   height: 32px;
   background-position: -256px -288px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 32px;
   height: 32px;
   background-position: -288px -288px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 32px;
   height: 32px;
   background-position: -320px 0px;
 }
 
-.vendor-icons.wordpress {
+.vendor-icons.windows8 {
   width: 32px;
   height: 32px;
   background-position: -320px -32px;
 }
 
-.vendor-icons.xamarin {
+.vendor-icons.wordpress {
   width: 32px;
   height: 32px;
   background-position: -320px -64px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.xamarin {
   width: 32px;
   height: 32px;
   background-position: -320px -96px;
 }
 
-.vendor-icons.zend {
+.vendor-icons.yeoman {
   width: 32px;
   height: 32px;
   background-position: -320px -128px;
+}
+
+.vendor-icons.zend {
+  width: 32px;
+  height: 32px;
+  background-position: -320px -160px;
 }
 

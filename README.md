@@ -146,6 +146,7 @@ The icons are borrowed from the following projects:
 * [![SourceForge](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourceforge.png) SourceForge](http://sourceforge.net/)
 * [![SourceGraph](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sourcegraph.png) Sourcegraph](https://sourcegraph.com/)
 * [![Sqlite](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/sqlite.png) Sqlite](https://www.sqlite.org/)
+* [![SVN/Subversion](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/svn.png) SVN/Subversion](https://subversion.apache.org/)
 * [![Symfony](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/symfony.png) Symfony](http://symfony.com/)
 * [![Stack Overflow](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/stack-overflow.png) Stack Overflow](http://stackoverflow.com/)
 * [![Titanium](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/titanium.png) Titanium](http://www.appcelerator.com/product/)
