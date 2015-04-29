@@ -90,6 +90,7 @@ The icons are borrowed from the following projects:
 * [![Firefox OS](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox-os.png) Firefox OS](https://www.mozilla.org/en/firefox/os/)
 * [![Firefox](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/firefox.png) Firefox](https://www.mozilla.org/firefox/)
 * [![Flash](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/flash.png) Flash](https://get.adobe.com/flashplayer/)
+* [![Flattr](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/flattr.png) Flattr](https://flattr.com/)
 * [![Font-Awesome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/font-awesome.png) Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [![Git](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/git.png) Git](http://git-scm.com/)
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
