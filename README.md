@@ -93,6 +93,7 @@ The icons are borrowed from the following projects:
 * [![Flattr](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/flattr.png) Flattr](https://flattr.com/)
 * [![Font-Awesome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/font-awesome.png) Font-Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [![Git](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/git.png) Git](http://git-scm.com/)
+* [![Gitbook](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gitbook.png) Gitbook](https://www.gitbook.com/)
 * [![Github](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/github.png) Github](https://github.com/)
 * [![Gitlab](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gitlab.png) Gitlab](https://about.gitlab.com/)
 * [![GNU](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/gnu.png) GNU](https://www.gnu.org/)
