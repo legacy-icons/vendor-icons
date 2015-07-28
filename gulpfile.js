@@ -72,46 +72,67 @@ gulp.task('build_clean', ['figlet'], function (cb) {
   del(['./dist/*'], cb);
 });
 
-gulp.task('build_img', ['build_clean'], function (cb) {
-  gulp.src(['./src/*.png'])
+gulp.task('build_img_16', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(16, 16);
     }))
     .pipe(gulp.dest('./dist/16x16'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_32', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(32, 32);
     }))
     .pipe(gulp.dest('./dist/32x32'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_48', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(48, 48);
     }))
     .pipe(gulp.dest('./dist/48x48'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_64', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(64, 64);
     }))
     .pipe(gulp.dest('./dist/64x64'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_96', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(96, 96);
     }))
     .pipe(gulp.dest('./dist/96x96'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_128', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(128, 128);
     }))
     .pipe(gulp.dest('./dist/128x128'));
-  gulp.src(['./src/*.png'])
+});
+
+gulp.task('build_img_256', ['build_clean'], function () {
+  return ulp.src(['./src/*.png'])
     .pipe(gm(function (gmfile) {
       return gmfile.resize(256, 256);
     }))
     .pipe(gulp.dest('./dist/256x256'));
-  //cb();
 });
 
-gulp.task('build', ['build_img'], function (cb) {
+gulp.task('build', [
+  'build_img_16', 'build_img_32', 'build_img_48',
+  'build_img_64', 'build_img_96', 'build_img_128',
+  'build_img_256'
+], function (cb) {
   triggerNotification ('Builder', 'Successfully built application', function () {
     displayCowsay('gulp build - DONE', cb);
   });
