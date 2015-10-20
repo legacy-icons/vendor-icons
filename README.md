@@ -73,6 +73,7 @@ The icons are borrowed from the following projects:
 * [![Chrome](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/chrome.png) Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [![Chromium](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/chromium.png) Chromium](https://www.chromium.org/)
 * [![Code Climate](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/code-climate.png) Code Climate](https://codeclimate.com/)
+* [![CodeIgniter](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/codeigniter.png) CodeIgniter](https://codeigniter.com/)
 * [![CodeMirror](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/codemirror.png) CodeMirror](http://codemirror.net/)
 * [![Codepen](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/codepen.png) Codepen](http://codepen.io/)
 * [![Composer](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/composer.png) Composer](https://getcomposer.org/)
