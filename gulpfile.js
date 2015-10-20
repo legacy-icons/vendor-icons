@@ -69,7 +69,7 @@ gulp.task('figlet', [], function (cb) {
  */
 
 gulp.task('build_clean', ['figlet'], function () {
-  return del(['./dist/*']);
+  return del(['./dist/**/*.png']);
 });
 
 gulp.task('build_img_16', ['build_clean'], function () {
