@@ -5,7 +5,7 @@ vendor-icons
 [![NPM version](https://img.shields.io/npm/v/vendor-icons.svg)](https://www.npmjs.org/package/vendor-icons)
 [![Bower version](https://img.shields.io/bower/v/vendor-icons.svg)](http://bower.io/search/?q=vendor-icons)
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/vendor-icons.svg)](https://packagist.org/packages/t1st3/vendor-icons)
-
+[![Nuget version](https://img.shields.io/nuget/v/vendor-icons.svg)](https://www.nuget.org/packages/vendor-icons/)
 
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/vendor-icons.svg)](https://david-dm.org/t1st3/vendor-icons)
 [![Build Status](https://img.shields.io/travis/T1st3/vendor-icons.svg)](https://travis-ci.org/T1st3/vendor-icons)
@@ -54,6 +54,67 @@ All the positioning of the icons inside this alone image is made through CSS, wh
 ```
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
+
+
+Get the package with NPM
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+npm install vendor-icons
+```
+
+
+
+Get the package with Bower
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+bower install vendor-icons
+```
+
+
+Get the package with Composer / Packagist
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+composer require t1st3/vendor-icons
+```
+
+
+Get the package with NuGet
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+Install-Package vendor-icons
+```
+
+
+
+
+License
+---------
+
+Each icon in this project belong to its original author, and for most of them, they are copyrighted. Some of these icons may not match their project's official icon/logo.
+
+Actually, this icon set is quite opinionated, but is definitely open to improvements, or critics.
+
+Please note that the project "vendor-icons" does not consider these icons as free-to-use by default: 
+if you want to use these icons in your project, you may|shall|should|must check with the rightful owners that your use of the icon is OK.
+
+This project is meant to follow any kind of "upstream-design". 
+Let's say NPM creates a Github repository to host SVG/EPS/AI for the NPM logo, then `vendor-icons`'s vocation would be to create a workflow to take the repository as a source for the NPM icon. 
+Each project and/or company handles graphic assets in different manners, and then, `vendor-icons` can not give general guidelines for use or licensing, since each icon may have its own guidelines/policy/license.
+
+Please refer the rightful owners in case you don't know whether your use of any icon is legit or not.
+
 
 
 The icons are borrowed from the following projects:
@@ -171,24 +232,6 @@ The icons are borrowed from the following projects:
 * [![Zend](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/zend.png) Zend](http://framework.zend.com/)
 
 
-
-
-
-License
----------
-
-Each icon in this project belong to its original author, and for most of them, they are copyrighted. Some of these icons may not match their project's official icon/logo.
-
-Actually, this icon set is quite opinionated, but is definitely open to improvements, or critics.
-
-Please note that the project "vendor-icons" does not consider these icons as free-to-use by default: 
-if you want to use these icons in your project, you may|shall|should|must check with the rightful owners that your use of the icon is OK.
-
-This project is meant to follow any kind of "upstream-design". 
-Let's say NPM creates a Github repository to host SVG/EPS/AI for the NPM logo, then `vendor-icons`'s vocation would be to create a workflow to take the repository as a source for the NPM icon. 
-Each project and/or company handles graphic assets in different manners, and then, `vendor-icons` can not give general guidelines for use or licensing, since each icon may have its own guidelines/policy/license.
-
-Please refer the rightful owners in case you don't know whether your use of any icon is legit or not.
 
 
 

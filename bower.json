@@ -30,7 +30,8 @@
     "gulpfile.js",
     ".editorconfig",
     ".travis.yml",
-    ".npmignore"
+    ".npmignore",
+    "nuget"
   ],
   "dependencies": {}
 }

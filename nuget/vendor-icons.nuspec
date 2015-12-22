@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>vendor-icons</id>
+    <version>0.4</version>
+    <title>Vendor-Icons</title>
+    <authors>T1st3</authors>
+    <owners>t1st3</owners>
+    <description>Icons and logos from various vendors of the coding community, shipped with CSS spritesheet</description>
+    <releaseNotes>https://github.com/T1st3/vendor-icons/releases</releaseNotes>
+    <summary>Vendor-Icons</summary>
+    <language>en-us</language>
+    <projectUrl>https://github.com/T1st3/vendor-icons</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/sprite-16x16/vendor-icons.png</iconUrl>
+    <licenseUrl>https://github.com/T1st3/vendor-icons#license</licenseUrl>
+    <copyright>Copyright 2015</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+    <tags>vendor icon png spritesheet css</tags>
+  </metadata>
+  <files>
+    <file src="dist\16x16\*.*" target="content\Content\16x16" />
+    <file src="dist\32x32\*.*" target="content\Content\32x32" />
+    <file src="dist\48x48\*.*" target="content\Content\48x48" />
+    <file src="dist\64x64\*.*" target="content\Content\64x64" />
+    <file src="dist\96x96\*.*" target="content\Content\96x96" />
+    <file src="dist\128x128\*.*" target="content\Content\128x128" />
+    <file src="dist\256x256\*.*" target="content\Content\256x256" />
+    <file src="dist\sprite-16x16\*.*" target="content\Content\sprite-16x16" />
+    <file src="dist\sprite-32x32\*.*" target="content\Content\sprite-32x32" />
+  </files>
+</package>
