@@ -189,6 +189,7 @@ The icons are borrowed from the following projects:
 * [![Nginx](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nginx.png) Nginx](http://nginx.org/)
 * [![Node.js](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nodejs.png) Node.js](https://nodejs.org/)
 * [![NPM](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/npm.png) NPM](https://www.npmjs.com/)
+* [![NuGet](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/nuget.png) NuGet](https://www.nuget.org/)
 * [![OpenGL](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/opengl.png) OpenGL](https://www.opengl.org/)
 * [![OpenHub](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/openhub.png) OpenHub](https://www.openhub.net/)
 * [![Opera](https://raw.githubusercontent.com/T1st3/vendor-icons/master/dist/32x32/opera.png) Opera](http://www.opera.com)
