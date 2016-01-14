@@ -3,7 +3,7 @@
   background-size: 176px 176px;
 }
 
-.vendor-icons.json {
+.vendor-icons.linux {
   width: 16px;
   height: 16px;
   background-position: 0px 0px;
@@ -333,13 +333,13 @@
   background-position: -112px -80px;
 }
 
-.vendor-icons.android {
+.vendor-icons.json {
   width: 16px;
   height: 16px;
   background-position: -112px -96px;
 }
 
-.vendor-icons.linux {
+.vendor-icons.android {
   width: 16px;
   height: 16px;
   background-position: 0px -112px;
@@ -423,249 +423,255 @@
   background-position: -128px -80px;
 }
 
-.vendor-icons.opengl {
+.vendor-icons.nuget {
   width: 16px;
   height: 16px;
   background-position: -128px -96px;
 }
 
-.vendor-icons.openhub {
+.vendor-icons.opengl {
   width: 16px;
   height: 16px;
   background-position: -128px -112px;
 }
 
-.vendor-icons.opera {
+.vendor-icons.openhub {
   width: 16px;
   height: 16px;
   background-position: 0px -128px;
 }
 
-.vendor-icons.packagist {
+.vendor-icons.opera {
   width: 16px;
   height: 16px;
   background-position: -16px -128px;
 }
 
-.vendor-icons.pear {
+.vendor-icons.packagist {
   width: 16px;
   height: 16px;
   background-position: -32px -128px;
 }
 
-.vendor-icons.perl {
+.vendor-icons.pear {
   width: 16px;
   height: 16px;
   background-position: -48px -128px;
 }
 
-.vendor-icons.phantomjs {
+.vendor-icons.perl {
   width: 16px;
   height: 16px;
   background-position: -64px -128px;
 }
 
-.vendor-icons.phonegap {
+.vendor-icons.phantomjs {
   width: 16px;
   height: 16px;
   background-position: -80px -128px;
 }
 
-.vendor-icons.php {
+.vendor-icons.phonegap {
   width: 16px;
   height: 16px;
   background-position: -96px -128px;
 }
 
-.vendor-icons.polymer {
+.vendor-icons.php {
   width: 16px;
   height: 16px;
   background-position: -112px -128px;
 }
 
-.vendor-icons.postgresql {
+.vendor-icons.polymer {
   width: 16px;
   height: 16px;
   background-position: -128px -128px;
 }
 
-.vendor-icons.python {
+.vendor-icons.postgresql {
   width: 16px;
   height: 16px;
   background-position: -144px 0px;
 }
 
-.vendor-icons.qt {
+.vendor-icons.python {
   width: 16px;
   height: 16px;
   background-position: -144px -16px;
 }
 
-.vendor-icons.react {
+.vendor-icons.qt {
   width: 16px;
   height: 16px;
   background-position: -144px -32px;
 }
 
-.vendor-icons.redis {
+.vendor-icons.react {
   width: 16px;
   height: 16px;
   background-position: -144px -48px;
 }
 
-.vendor-icons.requirejs {
+.vendor-icons.redis {
   width: 16px;
   height: 16px;
   background-position: -144px -64px;
 }
 
-.vendor-icons.ruby {
+.vendor-icons.requirejs {
   width: 16px;
   height: 16px;
   background-position: -144px -80px;
 }
 
-.vendor-icons.rubygems {
+.vendor-icons.ruby {
   width: 16px;
   height: 16px;
   background-position: -144px -96px;
 }
 
-.vendor-icons.safari {
+.vendor-icons.rubygems {
   width: 16px;
   height: 16px;
   background-position: -144px -112px;
 }
 
-.vendor-icons.sourceforge {
+.vendor-icons.safari {
   width: 16px;
   height: 16px;
   background-position: -144px -128px;
 }
 
-.vendor-icons.sourcegraph {
+.vendor-icons.sourceforge {
   width: 16px;
   height: 16px;
   background-position: 0px -144px;
 }
 
-.vendor-icons.sqlite {
+.vendor-icons.sourcegraph {
   width: 16px;
   height: 16px;
   background-position: -16px -144px;
 }
 
-.vendor-icons.stack-overflow {
+.vendor-icons.sqlite {
   width: 16px;
   height: 16px;
   background-position: -32px -144px;
 }
 
-.vendor-icons.svg {
+.vendor-icons.stack-overflow {
   width: 16px;
   height: 16px;
   background-position: -48px -144px;
 }
 
-.vendor-icons.svn {
+.vendor-icons.svg {
   width: 16px;
   height: 16px;
   background-position: -64px -144px;
 }
 
-.vendor-icons.symfony {
+.vendor-icons.svn {
   width: 16px;
   height: 16px;
   background-position: -80px -144px;
 }
 
-.vendor-icons.titanium {
+.vendor-icons.symfony {
   width: 16px;
   height: 16px;
   background-position: -96px -144px;
 }
 
-.vendor-icons.tizen {
+.vendor-icons.titanium {
   width: 16px;
   height: 16px;
   background-position: -112px -144px;
 }
 
-.vendor-icons.travis-ci {
+.vendor-icons.tizen {
   width: 16px;
   height: 16px;
   background-position: -128px -144px;
 }
 
-.vendor-icons.ubuntu {
+.vendor-icons.travis-ci {
   width: 16px;
   height: 16px;
   background-position: -144px -144px;
 }
 
-.vendor-icons.unity {
+.vendor-icons.ubuntu {
   width: 16px;
   height: 16px;
   background-position: -160px 0px;
 }
 
-.vendor-icons.versioneye {
+.vendor-icons.unity {
   width: 16px;
   height: 16px;
   background-position: -160px -16px;
 }
 
-.vendor-icons.w3c {
+.vendor-icons.versioneye {
   width: 16px;
   height: 16px;
   background-position: -160px -32px;
 }
 
-.vendor-icons.webgl {
+.vendor-icons.w3c {
   width: 16px;
   height: 16px;
   background-position: -160px -48px;
 }
 
-.vendor-icons.webkit {
+.vendor-icons.webgl {
   width: 16px;
   height: 16px;
   background-position: -160px -64px;
 }
 
-.vendor-icons.whatwg {
+.vendor-icons.webkit {
   width: 16px;
   height: 16px;
   background-position: -160px -80px;
 }
 
-.vendor-icons.windows8 {
+.vendor-icons.whatwg {
   width: 16px;
   height: 16px;
   background-position: -160px -96px;
 }
 
-.vendor-icons.wordpress {
+.vendor-icons.windows8 {
   width: 16px;
   height: 16px;
   background-position: -160px -112px;
 }
 
-.vendor-icons.xamarin {
+.vendor-icons.wordpress {
   width: 16px;
   height: 16px;
   background-position: -160px -128px;
 }
 
-.vendor-icons.yeoman {
+.vendor-icons.xamarin {
   width: 16px;
   height: 16px;
   background-position: -160px -144px;
 }
 
-.vendor-icons.zend {
+.vendor-icons.yeoman {
   width: 16px;
   height: 16px;
   background-position: 0px -160px;
+}
+
+.vendor-icons.zend {
+  width: 16px;
+  height: 16px;
+  background-position: -16px -160px;
 }
 
