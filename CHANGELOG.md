@@ -1,6 +1,11 @@
 ## Change Log
 
-### upcoming (2016/01/01 20:07 +00:00)
+### 0.5.0 (2016/01/14 17:10 +00:00)
+- [1873033](https://github.com/T1st3/vendor-icons/commit/187303340b81b45fb56cb7697deb12df736de011) chore: v0.5.0 (@T1st3)
+- [2000c43](https://github.com/T1st3/vendor-icons/commit/2000c43bcd6f572699bcf564301ce9198cef0501) chore: rebuilt all sizes and spritesheets with different compression (@T1st3)
+- [1d4a26a](https://github.com/T1st3/vendor-icons/commit/1d4a26ab15721a9c19f531ef82d49c0259e37d85) feat: add nuget icon (@T1st3)
+- [a8e3d38](https://github.com/T1st3/vendor-icons/commit/a8e3d386dbb7aabcf6fa87044aaeba60f64a8f6b) chore: add newline at end of config and .md files (@T1st3)
+- [6dabf26](https://github.com/T1st3/vendor-icons/commit/6dabf264b03c47f9b1ea1168af8314ba85ca9f2d) docs: add CHANGELOG.md (@T1st3)
 - [#3](https://github.com/t1st3/vendor-icons/pull/3) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
 - [0ce1e7b](https://github.com/T1st3/vendor-icons/commit/0ce1e7bc2c76a5f9317224528002be3c0e5c02f4) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
 - [8bd22f8](https://github.com/T1st3/vendor-icons/commit/8bd22f8741a9447183d428db79b89274e6bf5b7c) chore: fix WebKit with capital K (@T1st3)
