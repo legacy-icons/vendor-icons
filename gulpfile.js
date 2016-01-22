@@ -15,7 +15,7 @@ gulp = require('gulp'),
 gm = require('gulp-gm'),
 rename = require('gulp-rename'),
 imagemin = require('gulp-imagemin'),
-minifyCSS = require('gulp-minify-css'),
+cssnano = require('gulp-cssnano'),
 spriteBuilder = require( 'node-spritesheet' ).Builder;
 
 /*
@@ -115,7 +115,7 @@ gulp.task('sprite16', [], function (cb) {
     });
     builder.build(function() {
       gulp.src('./dist/sprite-16x16/' + pkg.name + '.css')
-        .pipe(minifyCSS({keepSpecialComments: '*'}))
+        .pipe(cssnano())
         .pipe(rename(pkg.name + '.min.css'))
         .pipe(gulp.dest('./dist/sprite-16x16'));
       cb();
@@ -144,7 +144,7 @@ gulp.task('sprite32', [], function (cb) {
     });
     builder.build(function() {
       gulp.src('./dist/sprite-32x32/' + pkg.name + '.css')
-        .pipe(minifyCSS({keepSpecialComments: '*'}))
+        .pipe(cssnano())
         .pipe(rename(pkg.name + '.min.css'))
         .pipe(gulp.dest('./dist/sprite-32x32'));
       cb();
