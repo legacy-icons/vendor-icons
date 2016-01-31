@@ -11,4 +11,4 @@ deploy:
     secure: Zgy/ndjGdw8lpOzmnaC/SOzKR7lv4Rrk7luS4hVwGw8WtvPH3xO42MMTAVGeun8MpscXvPVl513ww0i868y8o/1W9x5ize9sUcAaLRdzLmD5RI3uspXBekEyHt4HitiyXp8mU7WI/shD6z1Lfzqv/fdRb9V4LKGS3TaFdlpVmS8=
   on:
     tags: true
-    repo: T1st3/vendor-icons
+    repo: t1st3/vendor-icons

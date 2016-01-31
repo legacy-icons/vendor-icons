@@ -1,6 +1,6 @@
 {
   "name": "t1st3/vendor-icons",
-  "homepage": "https://github.com/T1st3/vendor-icons",
+  "homepage": "https://github.com/t1st3/vendor-icons",
   "description": "Icons and logos from various vendors of the coding community",
   "keywords": [
     "icon",
@@ -12,14 +12,14 @@
   "license": "MIT",
     "authors": [
     {
-      "name": "T1st3",
+      "name": "t1st3",
       "email": "contact@tiste.org",
       "homepage": "http://www.tiste.org/",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://github.com/T1st3/vendor-icons/issues/"
+    "issues": "https://github.com/t1st3/vendor-icons/issues/"
   },
   "type": "library",
   "extra": {
