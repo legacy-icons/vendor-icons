@@ -1,6 +1,5 @@
-vendor-icons
-============
 
+# vendor-icons
 
 [![NPM version](https://img.shields.io/npm/v/vendor-icons.svg)](https://www.npmjs.org/package/vendor-icons)
 [![Bower version](https://img.shields.io/bower/v/vendor-icons.svg)](http://bower.io/search/?q=vendor-icons)
@@ -11,9 +10,7 @@ vendor-icons
 [![Build Status](https://img.shields.io/travis/t1st3/vendor-icons.svg)](https://travis-ci.org/t1st3/vendor-icons)
 
 
-
-About
---------
+## About
 
 Icons and logos from various vendors of the coding community. While the project is opened to new icons, its author admits the project is kind of orientated towards JavaScript / Web & HTML5 / HybridApps.
 
@@ -29,15 +26,13 @@ This project just provides icons from various projects. All icons are made avail
 * 256x256
 
 
-CSS spritesheets
-----------
+## CSS spritesheets
 
 You can insert the icons directly into your HTML with a common IMG tag:
 
+```html
+<img alt="Github logo" src="dist/32x32/github.png" width="32" height="32">
 ```
-    <img alt="Github logo" src="dist/32x32/github.png" width="32" height="32">
-```
-
 
 In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
 
@@ -49,57 +44,36 @@ This is what it actually looks:
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
 
-```
-    <div class="vendor-icons github"></div>
+```html
+<div class="vendor-icons github"></div>
 ```
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
-Get the package with NPM
-----------
+## Install
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
+### Get the package with NPM
 
-```
-npm install vendor-icons
-```
+> npm install vendor-icons
 
 
+### Get the package with Bower
 
-Get the package with Bower
-----------
-
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-bower install vendor-icons
-```
+> bower install vendor-icons
 
 
-Get the package with Composer / Packagist
-----------
+### Get the package with Composer / Packagist
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-composer require t1st3/vendor-icons
-```
+> composer require t1st3/vendor-icons
 
 
-Get the package with NuGet
-----------
+### Get the package with NuGet
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-Install-Package vendor-icons
-```
+> Install-Package vendor-icons
 
 
-Build (the whole project or your custom project)
-----------
-
+## Build the whole project or your custom project
 
 We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
 
@@ -107,28 +81,22 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
 
 **with NPM 2.x.x**
 
-```
-npm install
-```
+> npm install
 
 **with NPM 3.x.x** (resolve dependencies for `node-spritesheet` before this module's ones)
 
-```
-npm install grunt grunt-contrib-coffee grunt-contrib-clean
-npm install
-```
+> npm install grunt grunt-contrib-coffee grunt-contrib-clean
+
+> npm install
 
 then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.
 
 then, you can run the `gulp build` task to build the project:
 
-
-```
-gulp build
-```
+> gulp build
 
 
-**What the build task does?**
+### What the build task does?
 
 First, it takes PNG files from the `src` folder, and pastes them to the `dist` folder.
 
@@ -140,8 +108,7 @@ empty the `src` directory, except `css3` and `html5` icons in PNG format, and th
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
 
 
-License
----------
+## License
 
 Each icon in this project belong to its original author, and for most of them, they are copyrighted. Some of these icons may not match their project's official icon/logo.
 
@@ -155,7 +122,6 @@ Let's say NPM creates a Github repository to host SVG/EPS/AI for the NPM logo, t
 Each project and/or company handles graphic assets in different manners, and then, `vendor-icons` can not give general guidelines for use or licensing, since each icon may have its own guidelines/policy/license.
 
 Please refer the rightful owners in case you don't know whether your use of any icon is legit or not.
-
 
 
 The icons are borrowed from the following projects:
@@ -274,11 +240,7 @@ The icons are borrowed from the following projects:
 * [![Zend](https://raw.githubusercontent.com/t1st3/vendor-icons/master/dist/32x32/zend.png) Zend](http://framework.zend.com/)
 
 
-
-
-
-About the rest (all this repository but the icons)
-----------
+### About the rest (all this repository but the icons)
 
 All the content of this repository (excepted the icon pack) 
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
