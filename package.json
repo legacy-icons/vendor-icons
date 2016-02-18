@@ -1,7 +1,7 @@
 {
   "name": "vendor-icons",
   "version": "0.5.1",
-  "homepage": "https://github.com/t1st3/vendor-icons",
+  "homepage": "https://github.com/legacy-icons/vendor-icons",
   "description": "Icons and logos from various vendors of the coding community",
   "keywords": [
     "icon",
@@ -14,10 +14,10 @@
   "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/t1st3/vendor-icons.git"
+    "url": "git://github.com/legacy-icons/vendor-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/t1st3/vendor-icons/issues"
+    "url": "https://github.com/legacy-icons/vendor-icons/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
