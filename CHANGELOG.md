@@ -1,6 +1,7 @@
 ## Change Log
 
 ### 0.5.1 (2016/02/15 10:00 +00:00)
+- [b1dd9e7](https://github.com/legacy-icons/vendor-icons/commit/b1dd9e7e832bdf0b4a32afd9ecac071d7a450e21) chore: 0.5.1 (@t1st3)
 - [#5](https://github.com/legacy-icons/vendor-icons/pull/5) chore(package): update gulp-cssnano to version 2.1.1 (@t1st3)
 - [568f842](https://github.com/legacy-icons/vendor-icons/commit/568f842ce4742b54ada0088c66275af97897b021) chore(package): update gulp-cssnano to version 2.1.1 (@greenkeeperio-bot)
 - [#4](https://github.com/legacy-icons/vendor-icons/pull/4) chore(package): update gulp to version 3.9.1 (@t1st3)
